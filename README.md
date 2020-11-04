@@ -4,7 +4,7 @@ step1:
 -->Make sure all the libraries imported in above Code are installed in your system
 
 step2:
--->Convert your picture ascii code using this website https://www.ascii-art-generator.org/
+-->Convert your photo to ascii code using this website https://www.ascii-art-generator.org/
 
 
 Note:
